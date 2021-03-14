@@ -1,6 +1,6 @@
 # Hi, I'm Tony! :D
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TonyDev77)](https://github.com/TonyDev77)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/TonySilva7)](https://github.com/TonySilva7)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tony-sz-silva/)](https://www.linkedin.com/in/tony-sz-silva/)
 
 ### About me
